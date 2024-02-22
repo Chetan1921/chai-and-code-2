@@ -1,0 +1,10 @@
+//comparison
+console.log(2>3)
+console.log("3">4)
+console.log(4>=4)
+console.log(true==false)
+console.log(null==0)//false
+console.log(null>=0)//true
+console.log(null<0)//false
+console.log("2"==2)//true
+console.log("2"===2)//false
